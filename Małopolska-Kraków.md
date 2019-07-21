@@ -2,7 +2,7 @@
 
 Jest to lista miejsc blisko Krakowa jak i w samym Krakowie.
 
-##### Miejsca
+### Miejsca
 
 Ojcowski Park Narodowy - Jest tutaj kilka miejsc do zobaczenia w ramach spaceru po OPN jak i można dojechać
 http://www.ojcowskiparknarodowy.pl/
@@ -27,9 +27,9 @@ http://www.ogrodjp2.pl/ -  Sam park spacerowy, nie byliśmy w środku
 
 https://centrum-apilandia.pl/ - Niesamowite miejsca dla bliższego zapoznania się z pszczołami. Na miejscu można zrobić swoje świeczki i objerzeć szklany ul (dla gróp od 8 osób, trzeba zapytać czy są dla indywidualnych osób). Można kupić słodycze i kosmetyki.
 
-### Nie widziałem a trzeba zobaczyć
+##### Nie widziałem a trzeba zobaczyć
 http://www.jaskiniowadolina.com/  - Ścieżka przyrodnicza która zaczyna się i kończy przy jaskini Nietoperzowej. 
 https://www.ojcow.pl/informator-turystyczny/jaskinie/jaskinia-nietoperzowa-953
 
-### Nocleg
+##### Nocleg
 http://www.jura.turist.pl/kaliski12/  - Fajne, spokojne miejsce. W pokojach w których byliśmy była Pralka, więc można zrobić spokojnie pranie.

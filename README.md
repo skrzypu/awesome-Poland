@@ -21,3 +21,5 @@ http://pl.wander-book.com/ Strona/program/książeczka Fajne miejsce do planowan
 Za pomocą aplikacji na telefonie możemy zobaczyć co jest w naszej najbliższej okolicy. Niestety są naklejki na cały kraj przez co należy użyć fitra kraju i regionu, tak żeby naklejki ogólne się nie pojawiały.
 
 https://www.znaczki-turystyczne.pl/ Drewniane znaczki do zbierania jako pamiątka. Na stronie jest mapa znaczkowych miejsc dzięki czemu łatwiej jest tworzyć wycieczkę.
+
+https://questy.org.pl/ Gry terenowe pomagające zwrócić uwagę na to co jest ciekawe
